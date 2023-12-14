@@ -57,7 +57,7 @@ Sonuç olarak, katmanlı mimari, projemizin daha yönetilebilir, sürdürülebil
 
 ## ![6](https://github.com/xryal/debitsystem/assets/81656700/7425fd06-b95b-4cec-bd10-50816018c533)
 
-##![7](https://github.com/xryal/debitsystem/assets/81656700/b7abf4dd-cc3f-42e5-a6d8-85a2199466e3)
+## ![7](https://github.com/xryal/debitsystem/assets/81656700/b7abf4dd-cc3f-42e5-a6d8-85a2199466e3)
 
 
 
