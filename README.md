@@ -41,15 +41,24 @@ Sonuç olarak, katmanlı mimari, projemizin daha yönetilebilir, sürdürülebil
 
 ## YAZILIM İÇERİSİNDEN GÖRÜNTÜLER
 
-## ![image](https://github.com/xryal/debitsystem/assets/81656700/d32bfafa-18a5-491e-bd5d-195a0b864c65)
+## ![1](https://github.com/xryal/debitsystem/assets/81656700/fae5cff9-dbeb-426e-a2e4-cce3d7b7445d)
 
-## ![image](https://github.com/xryal/debitsystem/assets/81656700/aee8b42f-29c6-4cb9-babd-0e59c874bab8)
 
-## ![image](https://github.com/xryal/debitsystem/assets/81656700/24e62b33-c760-4ee2-b513-7e8e65901eb7)
+## ![2 (2)](https://github.com/xryal/debitsystem/assets/81656700/c6a9f56d-c36d-400f-9784-a0dea915ab3e)
 
-## ![image](https://github.com/xryal/debitsystem/assets/81656700/1175e9fa-a3b5-4123-b018-025e5e9db301)
 
-## ![image](https://github.com/xryal/debitsystem/assets/81656700/0976dc8f-60a7-4411-90cc-ddc81c9f7af6)
+## ![3](https://github.com/xryal/debitsystem/assets/81656700/e1a1e808-f2bc-4bb2-8b28-c3c71feee2fe)
+
+
+## ![4](https://github.com/xryal/debitsystem/assets/81656700/65981d87-0a6e-4e18-8d81-9be8bc6de03b)
+
+
+## ![5](https://github.com/xryal/debitsystem/assets/81656700/70fb72f4-6cfa-47b0-bc23-d9ff1211915c)
+
+## ![6](https://github.com/xryal/debitsystem/assets/81656700/7425fd06-b95b-4cec-bd10-50816018c533)
+
+##![7](https://github.com/xryal/debitsystem/assets/81656700/b7abf4dd-cc3f-42e5-a6d8-85a2199466e3)
+
 
 
 
